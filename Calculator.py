@@ -1,5 +1,7 @@
 from Add import add
 from Subtract import subtract
+from Divide import divide
+from Multiply import multiply
 
 
 def Calculator():
